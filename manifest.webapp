@@ -3,7 +3,7 @@
   "description": "web serach api demo",
   "type": "privileged",
   "display": "standalone",
-  "start_url": "https://y-nakazawa.github.io/demo-web-speech-API"
+  "start_url": "https://y-nakazawa.github.io/demo-web-speech-API",
   "launch_path": "/index.html",
   "icons": [
     {
