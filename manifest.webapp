@@ -5,12 +5,12 @@
   "launch_path": "/index.html",
   "icons": [
     {
-      "src": "demo-web-speech-API//img/ws128.png",
+      "src": "/demo-web-speech-API/img/ws128.png",
       "sizes": "128x128",
       "type": "image/png"
     },
     {
-      "src": "demo-web-speech-API//img/ws512.png",
+      "src": "/demo-web-speech-API/img/ws512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
