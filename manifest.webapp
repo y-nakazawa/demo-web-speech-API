@@ -1,0 +1,23 @@
+{
+  "name": "web serach api demo",
+  "description": "web serach api demo",
+  "type": "privileged",
+  "launch_path": "/index.html",
+  "icons": {
+    "512": "/img/ws512.png",
+    "128": "/img/ws128.png"
+  },
+  "developer": {
+    "name": "katekichi",
+    "url": ""
+  },
+  "default_locale": "ja",
+  "permissions": {
+    "audio-capture" : {
+      "description" : "Audio capture"
+    },
+    "speech-recognition" : {
+      "description" : "Speech recognition"
+    }
+  }
+}
