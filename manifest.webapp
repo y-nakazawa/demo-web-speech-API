@@ -2,6 +2,8 @@
   "name": "web serach api demo",
   "description": "web serach api demo",
   "type": "privileged",
+  "display": "standalone",
+  "start_url": "https://y-nakazawa.github.io/demo-web-speech-API"
   "launch_path": "/index.html",
   "icons": [
     {
